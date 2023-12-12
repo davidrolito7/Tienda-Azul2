@@ -1,0 +1,86 @@
+{
+  "hash": "5620ce7f",
+  "browserHash": "dc64fafa",
+  "optimized": {
+    "vue": {
+      "src": "../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "0cd5f297",
+      "needsInterop": false
+    },
+    "pinia": {
+      "src": "../../node_modules/pinia/dist/pinia.mjs",
+      "file": "pinia.js",
+      "fileHash": "912d324c",
+      "needsInterop": false
+    },
+    "vue-toastification": {
+      "src": "../../node_modules/vue-toastification/dist/index.mjs",
+      "file": "vue-toastification.js",
+      "fileHash": "6e5c721e",
+      "needsInterop": false
+    },
+    "vue-paginate": {
+      "src": "../../node_modules/vue-paginate/dist/vue-paginate.js",
+      "file": "vue-paginate.js",
+      "fileHash": "1f4a543f",
+      "needsInterop": true
+    },
+    "vue-timeago3": {
+      "src": "../../node_modules/vue-timeago3/dist/vue-timeago.es.js",
+      "file": "vue-timeago3.js",
+      "fileHash": "0c3efd28",
+      "needsInterop": false
+    },
+    "@fortawesome/fontawesome-svg-core": {
+      "src": "../../node_modules/@fortawesome/fontawesome-svg-core/index.mjs",
+      "file": "@fortawesome_fontawesome-svg-core.js",
+      "fileHash": "c7b77a1f",
+      "needsInterop": false
+    },
+    "@fortawesome/vue-fontawesome": {
+      "src": "../../node_modules/@fortawesome/vue-fontawesome/index.es.js",
+      "file": "@fortawesome_vue-fontawesome.js",
+      "fileHash": "b581265a",
+      "needsInterop": false
+    },
+    "@fortawesome/free-solid-svg-icons": {
+      "src": "../../node_modules/@fortawesome/free-solid-svg-icons/index.mjs",
+      "file": "@fortawesome_free-solid-svg-icons.js",
+      "fileHash": "bb978225",
+      "needsInterop": false
+    },
+    "vue-cookies": {
+      "src": "../../node_modules/vue-cookies/vue-cookies.js",
+      "file": "vue-cookies.js",
+      "fileHash": "b1b6c4f2",
+      "needsInterop": true
+    },
+    "vue-router": {
+      "src": "../../node_modules/vue-router/dist/vue-router.mjs",
+      "file": "vue-router.js",
+      "fileHash": "9f3d67b9",
+      "needsInterop": false
+    },
+    "axios": {
+      "src": "../../node_modules/axios/index.js",
+      "file": "axios.js",
+      "fileHash": "85ca04cb",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-3GOOGFKQ": {
+      "file": "chunk-3GOOGFKQ.js"
+    },
+    "chunk-RY4PZZFY": {
+      "file": "chunk-RY4PZZFY.js"
+    },
+    "chunk-RZIAPKJ3": {
+      "file": "chunk-RZIAPKJ3.js"
+    },
+    "chunk-76J2PTFD": {
+      "file": "chunk-76J2PTFD.js"
+    }
+  }
+}

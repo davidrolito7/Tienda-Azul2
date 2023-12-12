@@ -1,0 +1,14 @@
+
+curl -X POST -H "Content-Type: application/json" -d '{
+  "curp": "QRST90132341UVWX6P",
+  "rfc": "QAST901234U1V",
+  "fullname": "Lizbeth Hernandez",
+  "phone": "95411341",
+  "email": "admin@example.com",
+  "salary": 1800.00,
+  "user": {
+    "username": "admin",
+    "password": "admin",
+    "role": "admin"
+  }
+}' http://localhost:3000/api/auth/create-user
